@@ -16,7 +16,9 @@ Inspired by `requests`_ for its simplicity and powered by `lxml`_ for its speed:
 .. _`tweeted by`: https://twitter.com/kennethreitz/status/419520678862548992
 .. _`The Changelog`: http://thechangelog.com/newspaper-delivers-instapaper-style-article-extraction/
 
-**This is newspaper's Python2 branch**! Or, view the `Python3 branch`_
+**This is newspaper's Python2 branch**!    
+
+Or, view the `Python3 branch`_
 
 .. _`Python3 branch`: https://github.com/codelucas/newspaper/tree/master
 
